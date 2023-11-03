@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextTitle" type="id" />
+    <item name="editTextDescription" type="id" />
+    <item name="datePicker" type="id" />
+    <item name="buttonConfirm" type="id" />
+    <item name="buttonCancel" type="id" />
+    <item name="recyclerView" type="id" />
+</resources>
